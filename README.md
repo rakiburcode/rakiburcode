@@ -2,7 +2,7 @@
 
 ### A passionate full stack developer from India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakiburcode" alt="rakiburcode" /></a> </p>
+<p align="left"> <img height="300px" src="https://avatars.githubusercontent.com/u/250889201?v=4" alt="rakiburcode" /></a> </p>
 
 - 🔭 I'm currently working on **Becoming Full Stack Developer**
 
