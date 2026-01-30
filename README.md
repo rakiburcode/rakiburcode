@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakibur Rahman
 
-### A passionate full stack developer from India
+### Becoming a passionate full stack developer from India
 
 - 🔭 I'm currently working on **Becoming Full Stack Developer**
 
