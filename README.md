@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development Journey**
 
-- 📫 How to reach me **rakiburrahman.code@gmail.com**
+- 📫 How to reach me **rakiburrahman.contact@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://codespecia.in](https://codespecia.in)**
 
