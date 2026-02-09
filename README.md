@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Web Development Journey**
 
-- 📫 How to reach me **rakiburrahman.contact@gmail.com**
+- 📫 Mail me: **rakiburrahman.contact@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://codespecia.in](https://codespecia.in)**
+- 👨‍💻 Here is my Portfolio: **[https://codespecia.in](https://codespecia.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
