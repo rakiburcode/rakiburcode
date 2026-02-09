@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rakiburcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rakiburcode" height="30" width="40" /></a>
-<a href="https://instagram.com/codespecia.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codespecia.in" height="30" width="40" /></a>
-<a href="https://leetcode.com/rakiburcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakiburcode" height="30" width="40" /></a>
+<a href="https://github.com/codespecia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codespecia" height="30" width="40" /></a>
+<a href="https://instagram.com/codespecia.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codespecia" height="30" width="40" /></a>
+<a href="https://leetcode.com/codespecia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codespecia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
