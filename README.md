@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html, css, bootsrap, tailwind, framer, git, js" alt="knowledges" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootsrap,tailwind,framer,git,js" alt="knowledges" width="40" height="40"/>
 
 </p>
 
