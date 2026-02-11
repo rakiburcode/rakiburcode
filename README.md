@@ -12,7 +12,7 @@
 
 - 📫 Contact me: **rakiburrahman.code@gmail.com**
 
-- 👨‍💻 Here is my Portfolio: **[https://codespecia.in](https://codespecia.in)**
+- 👨‍💻 Here is my Portfolio (Upcoming): **[https://codespecia.in](https://codespecia.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
