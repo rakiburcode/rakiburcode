@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakibur Rahman
 
-### Becoming a passionate full stack developer
+### Becoming a passionate full-stack developer, continuously strengthening my skills through hands-on projects and dedicated learning.
 
 - 🔭 I'm currently working on **Xperts Project using HTML, CSS and JS**
 
