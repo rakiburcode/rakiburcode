@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Xperts Project using HTML, CSS and JS**
 
-- 🌱 I'm currently learning **JavaScript**
+- 🌱 I'm currently learning **JavaScript & React**
 
 - 👯 I'm looking to collaborate on **Any Frontend Projects**
 
